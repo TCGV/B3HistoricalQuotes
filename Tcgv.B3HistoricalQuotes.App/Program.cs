@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using Tcgv.B3HistoricalQuotes.DataModel;
 using Tcgv.B3HistoricalQuotes.IO;
 
 namespace Tcgv.B3HistoricalQuotes.App
